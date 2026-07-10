@@ -1,4 +1,4 @@
-# Evaluation script for price-tracker
+# Evaluation script for task-scheduler
 
 
 def run_evaluation():

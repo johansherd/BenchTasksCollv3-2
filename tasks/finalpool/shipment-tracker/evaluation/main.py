@@ -1,4 +1,4 @@
-# Evaluation script for price-tracker
+# Evaluation script for shipment-tracker
 
 
 def run_evaluation():
